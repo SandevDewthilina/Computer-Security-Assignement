@@ -1,0 +1,26 @@
+[
+    {
+        "password": "6cb75f652a9b52798eb6cf2201057c73",
+        "username": "saman",
+        "user_type": "patient",
+        "privilege_level": 2
+    },
+    {
+        "password": "819b0643d6b89dc9b579fdfc9094f28e",
+        "username": "nimal",
+        "user_type": "staff",
+        "privilege_level": 1
+    },
+    {
+        "password": "7c6a180b36896a0a8c02787eeafb0e4c",
+        "username": "pavan",
+        "user_type": "doctor",
+        "privilege_level": 3
+    },
+    {
+        "username": "sandev",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "user_type": "patient",
+        "privilege_level": 2
+    }
+]
