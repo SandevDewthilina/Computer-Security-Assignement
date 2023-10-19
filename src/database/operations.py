@@ -80,7 +80,7 @@ def add_user(current_user, user):
     elif user['user_type'] == 'staff':
         user['privilege_level'] = 1
 
-    if not user['privilege_level'] == current_user['privilege_level']:
+    if not user['privilege_level'] > current_user['privilege_level']:
         print('permission denied')
         return
 
