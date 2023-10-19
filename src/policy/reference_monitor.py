@@ -2,7 +2,7 @@
 # doctor    r,w,d   r,w,d
 # patient   r,d     r,w,d
 # staff     w       r,w,d
-access_control_matrix = [['rwd', 'rwd'], ['r', 'wd'], ['w', 'wd']]
+access_control_matrix = [['rwd', 'rwd'], ['rd', 'rwd'], ['w', 'rwd']]
 
 
 class ReferenceMonitor:
