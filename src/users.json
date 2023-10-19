@@ -22,11 +22,5 @@
         "password": "202cb962ac59075b964b07152d234b70",
         "user_type": "patient",
         "privilege_level": 2
-    },
-    {
-        "username": "test",
-        "password": "202cb962ac59075b964b07152d234b70",
-        "user_type": "doctor",
-        "privilege_level": 3
     }
 ]
