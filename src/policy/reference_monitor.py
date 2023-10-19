@@ -1,7 +1,7 @@
 #           records accounts
 # doctor    r,w,d   r,w,d
-# patient   r,d     w,d
-# staff     w       w,d
+# patient   r,d     r,w,d
+# staff     w       r,w,d
 access_control_matrix = [['rwd', 'rwd'], ['r', 'wd'], ['w', 'wd']]
 
 
